@@ -1,5 +1,6 @@
 import streamlit as st
 import altair as alt
+import pandas as pd
 
 # Setting the title and page layout
 st.title("Mario's Rockstar Dream")
